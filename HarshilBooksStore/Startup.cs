@@ -1,6 +1,7 @@
 using HarshilBooks.DataAccess.Repository;
 using HarshilBooks.DataAccess.Repository.IRepository;
 using HarshilBooksStore.DataAccess.Data;
+using HarshilBooksStore.DataAccess.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
