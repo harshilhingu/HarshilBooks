@@ -23,4 +23,8 @@
     <ProjectReference Include="..\HarshilBooks.Utility\HarshilBooks.Utility.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Image\" />
+  </ItemGroup>
+
 </Project>
