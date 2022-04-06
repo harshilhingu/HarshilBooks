@@ -23,7 +23,7 @@ and Core.SqlServer packages
 10:69
 - i install Identity.EntityFrameworkCore to the project and then deleted all the class1 files from the projec.
 10:52
-- build the project and detected if there's any error or not.
+- build the project and detected if there's any error or not.  
 11:06
 - i moved Models in to AndrewsBooks.Models delete original
 11:16
