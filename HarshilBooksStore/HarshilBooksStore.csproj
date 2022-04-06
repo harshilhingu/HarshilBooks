@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Abp" Version="7.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="5.0.14" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.14" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.14" />
@@ -20,10 +21,6 @@
     <ProjectReference Include="..\HarshilBooks.DataAccess\HarshilBooks.DataAccess.csproj" />
     <ProjectReference Include="..\HarshilBooks.Models\HarshilBooks.Models.csproj" />
     <ProjectReference Include="..\HarshilBooks.Utility\HarshilBooks.Utility.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Areas\Admin\Controllers\" />
   </ItemGroup>
 
 </Project>
