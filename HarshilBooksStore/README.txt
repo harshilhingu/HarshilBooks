@@ -107,14 +107,13 @@ Time when added migration
 06/04/2022
 
 Finally Added Migration Covertype 
-20220405002558_AddCoverTypeToDb
+20220406081654_AddCoverTypeToDb
 i was having some error so i was completing it.
 At 4:10 
 add migration
 update the database for cover
 At 4:27
-add migration
-20220405015450_AddProductToDb
+20220406082552_AddProductToDb.cs
 update the database  for product
 At 4:56
 Added to the git hub repo
