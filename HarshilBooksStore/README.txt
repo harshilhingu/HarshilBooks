@@ -144,7 +144,10 @@ i did changes in folder as first i made wrong folder like
 
 
 ERROR
-folder i made before error (Image and Product) and after gett
+folder i made before error (Image and Product) and after getting errors i changed it to the (image and product)
+
+At 4:01
+i completed the project and then i ended up with closing.
 
 
 
