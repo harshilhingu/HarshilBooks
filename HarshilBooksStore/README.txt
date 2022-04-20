@@ -133,5 +133,10 @@ I completed the project and then i did readme and also github
 At 12:55 
 I did changes in code 
 At 1:15
-i did changes in 
+i did changes in files product were i checked the files and then i did in product controller as well as in js.
+At 1:54
+i comleted product same as i did in type 
+added to also added some controller Adding controller of Product.cs
+At 2:35
+
 THANK YOU......!!!!  
