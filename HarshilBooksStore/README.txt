@@ -138,5 +138,14 @@ At 1:54
 i comleted product same as i did in type 
 added to also added some controller Adding controller of Product.cs
 At 2:35
+morover i build the project fix errors and then coomit to the git hub and then push ot to the main.
+At 3:05
+i did changes in folder as first i made wrong folder like 
+
+
+ERROR
+folder i made before error (Image and Product) and after gett
+
+
 
 THANK YOU......!!!!  
