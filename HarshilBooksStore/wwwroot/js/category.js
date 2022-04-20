@@ -18,7 +18,7 @@ function loadDataTable() {
                     return `
                             <div class="text-center">
                                 <a href="/Admin/Category/Upsert/${data}" class="btn btn-success text-white" style="cursor:pointer">
-                                    <i class="fa-solid fa-file-pen"></i>&nbsp;
+                                    <i class="fas fa-edit"></i>&nbsp;
                                 </a>
                                 <a onclick=Delete("/Admin/Category/Delete/${data}")  class="btn btn-danger text-white" style="cursor:pointer">
                                     <i class="fas fa-trash-alt"></i>&nbsp;

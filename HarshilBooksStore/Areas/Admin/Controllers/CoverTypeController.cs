@@ -1,5 +1,7 @@
-﻿using HarshilBooks.DataAccess.Repository.IRepository;
+﻿using Dapper;
+using HarshilBooks.DataAccess.Repository.IRepository;
 using HarshilBooks.Models;
+using HarshilBooks.Utility;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -82,5 +84,6 @@ namespace HarshilBooksStore.Areas.Admin.Controllers
             return Json(new { success = true, message = "Deleted Successfully" });
         }
         #endregion
-    } 
+    }
 }
+

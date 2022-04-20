@@ -16,7 +16,7 @@ namespace HarshilBooks.DataAccess.Repository.IRepository
             string includeProperties = null
             );
         T GetFristOrDefault(
-            Expression<Func<T, bool>> fillter = null,
+            Expression<Func<T, bool>> fillter = null,   
             string includeProperties = null
             );
         void Add(T entity);  //to add an entity
